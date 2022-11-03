@@ -1,0 +1,12 @@
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin: auto;
+}
+
+.main_title {
+  margin: inherit;
+}
+.sub_title {
+  margin: inherit;
+}
